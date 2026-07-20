@@ -1,7 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 Always learning about security<br>👯 I’m always looking to collaborate on projects and open source code
-Fun fact: I love playing the drums
+ I’m always looking to collaborate on projects and open source code
 
 
 ## 🌐 Socials:
